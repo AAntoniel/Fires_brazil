@@ -21,7 +21,7 @@ The project is divided into two main stages:
 ---
 
 ## How to Run
-###To replicate this analysis, follow the steps below:
+### To replicate this analysis, follow the steps below:
 Create a folder named 'fires' in the root directory, download and paste the data (csv format) in it.
 
 ### Run the processing script first to prepare the dataset:
